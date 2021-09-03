@@ -1,0 +1,27 @@
+.footerContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #191919;
+    height: 60px;
+    padding-top: 15px;
+}
+
+.componentsDivs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 43px;
+}
+
+.footerIcon{
+    color: white;
+    width: 24px;
+    height: 24px;
+}
+
+.footerWord{
+    color:white;
+    font-size: 11.2px;
+}

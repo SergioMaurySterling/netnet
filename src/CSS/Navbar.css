@@ -1,0 +1,26 @@
+.Navbar{
+    margin: 0px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 234px;
+    padding-right: 63px;
+    padding-left: 63px;
+    padding-top: 14px;
+}
+
+.Navbar li {
+    list-style: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.navbarContainer {
+    width: 50px;
+    position: relative;
+    background: linear-gradient(to bottom, #191919,#19191900);
+    width: 360px;
+    height: 100px;
+}

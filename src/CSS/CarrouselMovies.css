@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    background: #191919;
+}
+
+.littePhoto{
+    margin-top: 10px;
+    padding-left: 8px;
+}
+
+.littePhoto1{
+    margin-top: 10px;
+    margin-left: 16px;
+}

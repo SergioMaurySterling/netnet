@@ -1,0 +1,14 @@
+.movieTypes {
+    font-size: 11.2px;
+    font-weight: 400;
+}
+
+.movieTypeContainer{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to top, #191919,#19191900);
+    color: white;
+    position: relative;
+    width: 360px;
+    margin-bottom: 0px;
+}
